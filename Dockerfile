@@ -1,4 +1,4 @@
 
-FROM rtekoh/website
+FROM rtekoh/webapp
 ADD . /var/www/html
 
